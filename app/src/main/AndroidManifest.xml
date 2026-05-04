@@ -13,13 +13,7 @@
         android:theme="@style/Theme.CLockedInProjectT9">
 
         <activity
-            android:name=".FriendsActivity"
-            android:exported="false" />
-        <activity
             android:name=".ChatActivity"
-            android:exported="false" />
-        <activity
-            android:name=".ChatListActivity"
             android:exported="false" />
 
         <activity
